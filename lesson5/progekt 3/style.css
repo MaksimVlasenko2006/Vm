@@ -1,0 +1,9 @@
+body{
+    color:  blue;
+    background:grey;
+}
+img{
+    border-radius: 50%;
+    display: block;
+
+}

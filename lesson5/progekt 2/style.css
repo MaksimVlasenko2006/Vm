@@ -1,0 +1,29 @@
+body{
+    background-image: url(./img/3389.jpg_wh860.jpg);
+    background-size: contain;
+}
+.d{
+    border-radius: 50%;
+    width: 260px;
+    height: 300px;
+}
+img{
+    display: block;
+    margin: auto;
+}
+.g{
+    border-radius: 50%;
+    width: 260px;
+    height: 300px;
+}
+.f{
+    border-radius: 50%;
+    width: 200px;
+    height: 300px;
+}
+h1{
+    color: red;
+}
+.text{
+    color: white;
+}

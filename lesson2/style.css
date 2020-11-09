@@ -1,0 +1,27 @@
+body {
+    background: #696969 ;
+    color: #FFFF00 ;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 45px;
+}
+li {
+    font-size: 20px;
+    color: #0000FF;
+}
+a {
+    color: blue;
+    text-decoration: ;
+    font-size: 30px;
+}
+img {
+    border: 5px solid #FF0000;
+    margin: auto;
+    display: block;
+    border-radius: 400px;
+    width: 800px;
+    height: 500px;
+}
