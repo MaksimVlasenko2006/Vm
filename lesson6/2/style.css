@@ -1,0 +1,19 @@
+body{
+    background: #88888d;
+    color: blue;
+}
+h1{
+    background:black;
+    color: blue;
+}
+p{
+    background:black;
+    color: blue;
+} 
+img{
+    display: block;
+    border-radius: 50%;
+    
+}
+ 
+
