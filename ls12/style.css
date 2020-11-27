@@ -1,0 +1,78 @@
+.box-box{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1{
+    background-color: blue;
+    height: 200px;
+    width: 300px;
+    margin: 30px 30px;
+    display: flex;
+}
+.box2{
+    background-color:rgb(75, 75, 75);
+    height: 200px;
+    width: 300px;
+    margin: 30px 30px;
+    display: flex;
+}
+.box3{
+    background-color:red;
+    height: 200px;
+    width: 300px;
+    margin: 30px 30px;
+    display: flex;
+}
+.class{
+    height: 280px;
+    width: 168px;
+    position: relative;
+    display: block;
+    bottom: 20px;
+    right: 20px;
+}
+h3{
+    font-size: 20px;
+    font-family: 'Disko', arial;
+    text-shadow: 4px 4px 4px #aaa;
+}
+.class1{
+    height: 280px;
+    width: 168px;
+    position: relative;
+    display: block;
+    bottom: 20px;
+    right: 20px;
+}
+.class2{
+    height: 230px;
+    width: 188px;
+    position: relative;
+    display: block;
+    bottom: 20px;
+    right: 20px;
+}
+.b{
+    margin-left: -30px;
+    margin-block-end: 25px;
+}
+.с{
+    margin-left: -30px;
+    margin-block-end: 25px;
+}
+.box4{
+    background-color:violet;
+    height: 200px;
+    width: 300px;
+    margin: 30px 30px;
+    display: flex;
+}
+.class3{
+    height: 200px;
+    width: 188px;
+    position: relative;
+    display: block;
+    bottom: 20px;
+    right: 20px;
+    margin-bottom: 20px;
+}
