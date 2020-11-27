@@ -1,0 +1,31 @@
+.head{
+    background-color: brown;
+    height: 200px;
+    margin-bottom: 10px;
+}
+.
+.sidebar{
+    background-color:yellow;
+    height: 500px;
+    margin-bottom: 10px;
+    float: left;
+    width: 30%;
+}
+.content{
+    background-color:rgb(8, 117, 206);
+    height: 500px; 
+    margin-bottom: 10px;
+    float: left;
+    width: 30%;
+    float: left;
+}
+body{
+    color: white;
+    font-size: 36px;
+    margin: 0 auto;
+}
+.foter{
+    color: white;
+    background-color: black;
+    width: 500px;
+}
