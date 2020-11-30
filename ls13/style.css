@@ -1,0 +1,24 @@
+.box1{
+    background-color: tomato;
+    height: 500px;
+    width: 800px;
+    margin: 25px 20px;
+    display: flex;
+}
+img{
+    height: 500px;
+    width: 400px;
+    position: relative;
+    display: block;
+    right: 20px;
+    bottom: 0px;
+}
+.text{
+    font-size: 100%;
+    color: white;
+}
+h2{
+    font-size: 22px;
+    color: white;
+    margin: 5px;
+}
