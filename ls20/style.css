@@ -1,0 +1,36 @@
+.fab{
+    background: rgb(195,186,34);
+    background: linear-gradient(0deg, rgba(195,186,34,1) 8%, rgba(215,56,149,1) 51%, rgba(127,29,228,1) 91%);
+    font-size: 250px;
+    color: white;
+    border-radius: 22%;
+    padding-left: 4px;
+    
+  
+}
+i{
+    height: 250px;
+    width: 224px;
+}
+p{
+    border-radius:20% ;
+}
+form{
+    height: 250px;
+    width: 224px;
+    
+}
+img{
+    height: 250px;
+    width: 224px;
+}
+.clone{
+    display: flex;
+}
+.clone2{
+    display: flex;
+}  
+input{
+    width: 200px;
+    height: 10px;
+}
