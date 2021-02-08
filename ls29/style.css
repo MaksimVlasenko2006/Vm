@@ -1,0 +1,29 @@
+* {
+    margin: 0 auto;
+}
+.clas1 {
+    background-color: blue;
+    width: 1360px;
+    height: 250px;
+    
+    margin-top: 20px;
+
+}
+.clas2 {
+    background-color: brown; 
+    width: 230px;
+    height: 490px;
+    
+}
+.clas3 {
+    background-color:yellow;
+    width: 1100px;
+    height: 490px;
+    
+}
+.t {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 20px;
+    width: 75%;
+}
